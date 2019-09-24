@@ -1,1 +1,1 @@
-# modernj-javascript
+# modern-javascript
