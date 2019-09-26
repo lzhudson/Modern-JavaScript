@@ -7,3 +7,7 @@
 
 ## Seção 01
 Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/master/project>
+
+## Seção 02 - Fundamentos da Linguagem Javascript
+Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/master/section-02>
+[Variaveis var, let e const](https://github.com/lzhudson/modern-javascript/tree/master/section-02/01%20-%20variables%20-%20var%2C%20let%20%26%20const)
