@@ -16,3 +16,5 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Tipos de Dados](https://github.com/lzhudson/modern-javascript/tree/master/section-02/02-%20data%20types%20in%20javascript)
 
 [Tipos de Conversão](https://github.com/lzhudson/modern-javascript/tree/master/section-02/03%20-%20type%20conversion)
+
+[Numeros e Objeto Math](https://github.com/lzhudson/modern-javascript/tree/master/section-02/04%20-%20numbers%20and%20Math%20object)
