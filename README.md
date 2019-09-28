@@ -14,3 +14,5 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Variaveis var, let e const](https://github.com/lzhudson/modern-javascript/tree/master/section-02/01%20-%20variables%20-%20var%2C%20let%20%26%20const)
 
 [Tipos de Dados](https://github.com/lzhudson/modern-javascript/tree/master/section-02/02-%20data%20types%20in%20javascript)
+
+[Tipos de Conversão](https://github.com/lzhudson/modern-javascript/tree/master/section-02/03%20-%20type%20conversion)
