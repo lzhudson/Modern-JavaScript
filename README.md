@@ -18,3 +18,5 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Tipos de Conversão](https://github.com/lzhudson/modern-javascript/tree/master/section-02/03%20-%20type%20conversion)
 
 [Numeros e Objeto Math](https://github.com/lzhudson/modern-javascript/tree/master/section-02/04%20-%20numbers%20and%20Math%20object)
+
+[String, Metodos e Concatenação](https://github.com/lzhudson/modern-javascript/tree/master/section-02/05%20-%20string%20methods%20and%20concatenation)
