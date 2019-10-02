@@ -26,3 +26,5 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Array e Metodos de arrays](https://github.com/lzhudson/modern-javascript/tree/master/section-02/07%20-%20Arrays%20and%20array%20methods)
 
 [Objetos Literais](https://github.com/lzhudson/modern-javascript/tree/master/section-02/08%20-%20objects%20literals)
+
+[Objeto Date e Time](https://github.com/lzhudson/modern-javascript/tree/master/section-02/09%20-%20date%20times)
