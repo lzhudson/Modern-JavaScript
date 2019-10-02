@@ -30,3 +30,5 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Objeto Date e Time](https://github.com/lzhudson/modern-javascript/tree/master/section-02/09%20-%20date%20times)
 
 [Condicionais IFs e Operadores de Comparação e Logicos](https://github.com/lzhudson/modern-javascript/tree/master/section-02/10%20-%20if%20statements%20and%20comparison%20operators)
+
+[Switch](https://github.com/lzhudson/modern-javascript/tree/master/section-02/11%20-%20switch)
