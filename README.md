@@ -22,3 +22,5 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [String, Metodos e Concatenação](https://github.com/lzhudson/modern-javascript/tree/master/section-02/05%20-%20string%20methods%20and%20concatenation)
 
 [Templates Literais](https://github.com/lzhudson/modern-javascript/tree/master/section-02/06%20-%20template%20literals)
+
+[Array e Metodos de arrays](https://github.com/lzhudson/modern-javascript/tree/master/section-02/07%20-%20Arrays%20and%20array%20methods)
