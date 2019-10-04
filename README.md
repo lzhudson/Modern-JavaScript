@@ -36,3 +36,5 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Expressões de Funções e Declarações](https://github.com/lzhudson/modern-javascript/tree/master/section-02/12%20-%20functions%20expressions%20and%20declarations)
 
 [Loops: For, While, Do While, Foreach, Map, For in](https://github.com/lzhudson/modern-javascript/tree/master/section-02/13%20-%20general%20loops)
+
+[Objeto Window](https://github.com/lzhudson/modern-javascript/tree/master/section-02/14%20-%20the%20window%20object)
