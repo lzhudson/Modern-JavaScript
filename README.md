@@ -34,3 +34,5 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Switch](https://github.com/lzhudson/modern-javascript/tree/master/section-02/11%20-%20switch)
 
 [Expressões de Funções e Declarações](https://github.com/lzhudson/modern-javascript/tree/master/section-02/12%20-%20functions%20expressions%20and%20declarations)
+
+[Loops: For, While, Do While, Foreach, Map, For in](https://github.com/lzhudson/modern-javascript/tree/master/section-02/13%20-%20general%20loops)
