@@ -5,7 +5,7 @@ Ex:
   Criando um array literal:
   const numeros = [1,2,3,4,5];
   Criando um array usando o objeto Array:
-  const numbers2 = [6,7,8,9,10];
+  const numbers2 = new Array(1,2,3,4,5);
   Misto: const misto = [22, 'hello', [1,2,4], {nome:'Hudson'}, undefined];
 
 Pegar o tamanho de um array:
