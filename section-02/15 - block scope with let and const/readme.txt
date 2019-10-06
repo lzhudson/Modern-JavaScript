@@ -22,4 +22,4 @@ function numero(){
 console.log(numero1);
 console.log(numero2);
 Fim Codigo
-Observe que o segundo console dara erro pois variaveis declaradas com a palavra reservada let estão sujeitas a escopo loca, ja variaeis declaradas com var estão sujeitas a todo escopo do programa embora estejam em escopo local.
+Observe que o segundo console dará erro pois variaveis declaradas com a palavra reservada let estão sujeitas a escopo local, ja variaveis declaradas com var estão sujeitas a todo escopo do programa embora estejam em escopo local.
