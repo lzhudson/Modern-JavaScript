@@ -15,7 +15,7 @@ if(true) {
 let id = 100;
 id = '100';
 // Igualdade testando somente pelo Valor
-if(id == 101) {
+if(id == 100) {
   console.log('CORRECT');
 } else {
   console.log('INCORRECT');
@@ -26,16 +26,17 @@ Ex:
 !true = false;
 1 > 2 = false;
 !(1 > 2) = true;
-
+id = 100;
 // Testando a não igualdade( a diferença )
 if(id != 101) {
   console.log('CORRECT');
 } else {
   console.log('INCORRECT');
 }
-Saida: na condição verifica se a variavel id não é igual a variavel 101, se for verdadeiro retorna correct se não retorna incorrect.
+Saida: na condição verifica se a variavel id não é igual a variavel 101, se for verdadeiro retorna correct se não retorna incorrect. Saida: Correct.
 
 // Igualdade testando pelo valor e pelo tipo.
+id = '100';
 if(id === 100) {
   console.log('CORRECT');
 } else {
@@ -44,6 +45,7 @@ if(id === 100) {
 Saida: incorrect, pois o valor da variavel id é igual 100 porém o operador de igualdade estrito (===) testa também pelo e o tipo da variavel id é String já o tipo da variavel no qual estamos comparando é do tipo inteiro.
 
 // NOT EQUAL TO TESTING TO VALUE
+id = 100;
 if(id !== 101) {
   console.log('CORRECT');
 } else {
@@ -136,6 +138,7 @@ Operador Ternario:
 Operador ternario é uma forma de reduzir a escrita de uma condição if e esle, porém só recomendado o uso em expressões logicas simples.
 Sintax: condição ? true : false
 Ex: 
+  num = 11;
   num > 10 ? true : false
   Se o numero acima for maior que 10 ele retorna true ou seja o if é representado pelo sinal de "?" já se não for retorna o else que é representado pelo sinal de ":".
 
