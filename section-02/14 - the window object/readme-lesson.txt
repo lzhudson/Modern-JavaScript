@@ -24,7 +24,7 @@ Acesando: Object.propriedade.
 
 Outer Height e Width
 window.outerHeight: Retorna o valor da altura externa da janela.
-window.outerWith: Retorna o valor da largura externa da janela.
+window.outerWidth: Retorna o valor da largura externa da janela.
 
 Inner Height e Width
 window.innerWidth: Retorna o valor da largura da janela em si. Somente do conteudo.
@@ -42,7 +42,7 @@ Ex:
 Recarregar:
 window.location.load(): Recarrega a pagina atual.
 
-Objecto Historico: Acessa as Propiedades e Metodos do historio.
+Objecto Historico: Acessa as Propiedades e Metodos do historico.
 window.history.go(value): Pode fazer o usuario avancar ou voltar algumas paginas.
 Obs: valor positivo joga o usuario para proxima pagina se houver e o valor negativo faz com que o usuario volte algumas paginas se houver.(Tem que estar no historico).
 
