@@ -38,3 +38,5 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Loops: For, While, Do While, Foreach, Map, For in](https://github.com/lzhudson/modern-javascript/tree/master/section-02/13%20-%20general%20loops)
 
 [Objeto Window](https://github.com/lzhudson/modern-javascript/tree/master/section-02/14%20-%20the%20window%20object)
+
+[Escopo de bloco com let e const](https://github.com/lzhudson/modern-javascript/tree/master/section-02/15%20-%20block%20scope%20with%20let%20and%20const)
