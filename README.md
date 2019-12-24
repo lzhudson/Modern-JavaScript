@@ -5,6 +5,12 @@
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
+## Projetos
+[Calculadora de Juros](https://lzhudson.github.io/js-projects/DOM%20Projects/loancalculator/)
+[Advinhe o Numero](https://lzhudson.github.io/js-projects/DOM%20Projects/numberguesser/)
+[To-do List](https://lzhudson.github.io/js-projects/DOM%20Projects/task/)
+[App de Lista de Livros](https://lzhudson.github.io/js-projects/OOP%20Book%20List%20App/)
+
 ## Seção 01
 Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/master/project>
 
