@@ -34,12 +34,9 @@ getJsonBtn.addEventListener('click', function(){
 getAPIData.addEventListener('click', function(){
   const fetchAPI = fetch('https://api.github.com/users');
   
-  fetchAPI
-  .then(users => users.json())
+  fetchAPI.then(users => users.json())
   .then(response => {
     output.innerHTML = '';
-    response.forEach(function(user){
-      output.innerHTML += `<li>${user.login}</li>`
-    })
+    response.forEach(user =>  output.innerHTML += `<li>${user.login}</li>`)
   })
 })
