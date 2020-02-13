@@ -8,28 +8,24 @@ let output = document.querySelector('#output');
 
 getTextBtn.addEventListener('click', function(){
   const textFetch = fetch('./test1.txt');
-
-  textFetch.then(function(response){
-    return response.text();
-  }).then(function(response){
-    output.innerHTML = response;
-  })
-  .catch(function(err){
-    console.log(err);
-  })
+  
+  textFetch
+  .then(response => response.text())
+  .then(response => output.innerHTML = response)
+  .catch(err => console.log(err))
 })
 
 getJsonBtn.addEventListener('click', function(){
   
   const fetchJson = fetch('./posts.json');
-
-  fetchJson.then(function(response){
-    return response.json();
-  }).then(function(response){
-    response.forEach(function(post){
+  
+  fetchJson
+  .then(response => response.json())
+  .then(response => {
+    response.forEach(post => {
       output.innerHTML += 
       `<li>${post.title}
-       <p>${post.body}        
+      <p>${post.body}        
       </li>`
     });
   })
@@ -37,10 +33,10 @@ getJsonBtn.addEventListener('click', function(){
 
 getAPIData.addEventListener('click', function(){
   const fetchAPI = fetch('https://api.github.com/users');
-
-  fetchAPI.then(function(users){
-    return users.json();
-  }).then(function(response){
+  
+  fetchAPI
+  .then(users => users.json())
+  .then(response => {
     output.innerHTML = '';
     response.forEach(function(user){
       output.innerHTML += `<li>${user.login}</li>`
