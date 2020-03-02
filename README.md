@@ -49,3 +49,29 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Objeto Window](https://github.com/lzhudson/modern-javascript/tree/master/section-02/14%20-%20the%20window%20object)
 
 [Escopo de bloco com let e const](https://github.com/lzhudson/modern-javascript/tree/master/section-02/15%20-%20block%20scope%20with%20let%20and%20const)
+
+## Seção 03 - Manipulação do DOM e Eventos
+
+Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/master/section-03>
+
+[Examinando o objeto document](https://github.com/lzhudson/modern-javascript/tree/master/section-03/01%20-%20examining%20the%20document%20object)
+
+[Seletores do DOM para somente um elemento](https://github.com/lzhudson/modern-javascript/tree/master/section-03/02%20-%20dom%20selectors%20for%20single%20elements)
+
+[Seletores do DOM para multiplos elementos](https://github.com/lzhudson/modern-javascript/tree/master/section-03/03%20-%20dom%20selectos%20for%20multiple%20elements)
+
+[Atravessando o DOM](https://github.com/lzhudson/modern-javascript/tree/master/section-03/04%20-%20traversing%20dom)
+
+[Criando Elementos](https://github.com/lzhudson/modern-javascript/tree/master/section-03/05%20-%20create%20elements)
+
+[Removendo e substituindo elementos](https://github.com/lzhudson/modern-javascript/tree/master/section-03/06%20-%20removing%20and%20replacing%20elements)
+
+[Eventos ouvintes e objeto event](https://github.com/lzhudson/modern-javascript/tree/master/section-03/07%20-%20event%20listeners%20the%20event%20object)
+
+[Eventos de Mouse](https://github.com/lzhudson/modern-javascript/tree/master/section-03/08%20-%20mouse%20events)
+
+[Eventos de Teclado](https://github.com/lzhudson/modern-javascript/tree/master/section-03/09%20-%20keyboard%20events)
+
+[Delegando eventos borbulhantes](https://github.com/lzhudson/modern-javascript/tree/master/section-03/10%20-%20event%20bubbling%20delegation)
+
+[Local Storage](https://github.com/lzhudson/modern-javascript/tree/master/section-03/11%20-%20local%20storage)
