@@ -2,7 +2,9 @@
 
 ## Plugins VS Code
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+
 [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
 
 ## Projetos
@@ -62,18 +64,18 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 
 [Seletores do DOM para multiplos elementos](https://github.com/lzhudson/modern-javascript/tree/master/section-03/03%20-%20dom%20selectos%20for%20multiple%20elements)
 
-[Atravessando o DOM](https://github.com/lzhudson/modern-javascript/tree/master/section-03/04%20-%20traversing%20dom)
+[Percorrendo o DOM](https://github.com/lzhudson/modern-javascript/tree/master/section-03/04%20-%20traversing%20dom)
 
 [Criando Elementos](https://github.com/lzhudson/modern-javascript/tree/master/section-03/05%20-%20create%20elements)
 
 [Removendo e substituindo elementos](https://github.com/lzhudson/modern-javascript/tree/master/section-03/06%20-%20removing%20and%20replacing%20elements)
 
-[Eventos ouvintes e objeto event](https://github.com/lzhudson/modern-javascript/tree/master/section-03/07%20-%20event%20listeners%20the%20event%20object)
+[Eventos ouvintes e o objeto event](https://github.com/lzhudson/modern-javascript/tree/master/section-03/07%20-%20event%20listeners%20the%20event%20object)
 
 [Eventos de Mouse](https://github.com/lzhudson/modern-javascript/tree/master/section-03/08%20-%20mouse%20events)
 
 [Eventos de Teclado](https://github.com/lzhudson/modern-javascript/tree/master/section-03/09%20-%20keyboard%20events)
 
-[Delegando eventos borbulhantes](https://github.com/lzhudson/modern-javascript/tree/master/section-03/10%20-%20event%20bubbling%20delegation)
+[Delegação de Eventos](https://github.com/lzhudson/modern-javascript/tree/master/section-03/10%20-%20event%20bubbling%20delegation)
 
 [Local Storage](https://github.com/lzhudson/modern-javascript/tree/master/section-03/11%20-%20local%20storage)
