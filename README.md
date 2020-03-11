@@ -82,6 +82,8 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 
 ## Seção 04 - Orientação a Objetos em Javascript ES5 & ES2015
 
+Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/master/section-05>
+
 [Construturoes e a palavra chave 'this'](https://github.com/lzhudson/modern-javascript/tree/master/section-05/01%20-%20constructor%20%26%20The%20this%20keyword)
 
 [Construtores do Javascript](https://github.com/lzhudson/modern-javascript/tree/master/section-05/02%20-%20built%20in%20constructor)
