@@ -97,3 +97,29 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Classes em ES6](https://github.com/lzhudson/modern-javascript/tree/master/section-05/06%20-%20es6%20classes)
 
 [Sub classes em Javascript](https://github.com/lzhudson/modern-javascript/tree/master/section-05/07%20-%20sub%20classes)
+
+## Seção 05 - Javascript Assincrono, AJAX e Fetch API
+
+Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/master/section-06>
+
+[AJAX e Métodos do Objeto XHR](https://github.com/lzhudson/modern-javascript/tree/master/section-06/01%20-%20ajax%20%26%20xhr%20methods)
+
+[Trabalhando com AJAX & JSON](https://github.com/lzhudson/modern-javascript/tree/master/section-06/02%20-%20working%20with%20ajax%20%26%20json)
+
+[Consumindo dados de API Externa](https://github.com/lzhudson/modern-javascript/tree/master/section-06/03%20-%20getting%20data%20from%20an%20external%20API)
+
+[Funções Callback](https://github.com/lzhudson/modern-javascript/tree/master/section-06/04%20-%20callback%20functions)
+
+[Construindo uma biblioteca HTTP](https://github.com/lzhudson/modern-javascript/tree/master/section-06/05%20-%20make%20http%20libary)
+
+[Promises do ES6](https://github.com/lzhudson/modern-javascript/tree/master/section-06/06%20-%20es6-promises)
+
+[Fetch API](https://github.com/lzhudson/modern-javascript/tree/master/section-06/07%20-%20fetch-api)
+
+[Arrow Functions](https://github.com/lzhudson/modern-javascript/tree/master/section-06/08%20-%20arrow-functions)
+
+[Biblioteca HTTP com promises e fetch API](https://github.com/lzhudson/modern-javascript/tree/master/section-06/09%20-%20custom-http-library-fetch-with-promises)
+
+[Async/Await](https://github.com/lzhudson/modern-javascript/tree/master/section-06/10%20-%20async-await)
+
+[Biblioteca HTTP com Fetch API e Async/Await](https://github.com/lzhudson/modern-javascript/tree/master/section-06/11%20-%20custom-http-library-fetch-async-await)
