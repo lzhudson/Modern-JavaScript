@@ -79,3 +79,19 @@ Arquivos dessa seção: <https://github.com/lzhudson/modern-javascript/tree/mast
 [Delegação de Eventos](https://github.com/lzhudson/modern-javascript/tree/master/section-03/10%20-%20event%20bubbling%20delegation)
 
 [Local Storage](https://github.com/lzhudson/modern-javascript/tree/master/section-03/11%20-%20local%20storage)
+
+## Seção 04 - Orientação a Objetos em Javascript ES5 & ES2015
+
+[Construturoes e a palavra chave 'this'](https://github.com/lzhudson/modern-javascript/tree/master/section-05/01%20-%20constructor%20%26%20The%20this%20keyword)
+
+[Construtores do Javascript](https://github.com/lzhudson/modern-javascript/tree/master/section-05/02%20-%20built%20in%20constructor)
+
+[Desvendando Proptotipo](https://github.com/lzhudson/modern-javascript/tree/master/section-05/03%20-%20prototype-explained)
+
+[Herança Prototipal](https://github.com/lzhudson/modern-javascript/tree/master/section-05/04%20-%20prototypal%20inheritance)
+
+[Usando Object.create](https://github.com/lzhudson/modern-javascript/tree/master/section-05/05%20-%20using%20object%20create)
+
+[Classes em ES6](https://github.com/lzhudson/modern-javascript/tree/master/section-05/06%20-%20es6%20classes)
+
+[Sub classes em Javascript](https://github.com/lzhudson/modern-javascript/tree/master/section-05/07%20-%20sub%20classes)
